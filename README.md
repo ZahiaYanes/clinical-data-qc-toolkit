@@ -1,9 +1,8 @@
 # 🧪 Clinical Data QC Toolkit
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://python.org)
-[![Tests](https://img.shields.io/badge/Tests-19%20passed-brightgreen.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Tests](https://github.com/ZahiaYanes/clinical-data-qc-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/ZahiaYanes/clinical-data-qc-toolkit/actions/workflows/tests.yml)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > Python toolkit for **automated quality control and harmonization** of multi-center clinical datasets, designed to reproduce common data-quality
 issues encountered in real-world oncology studies and clinical trials.
