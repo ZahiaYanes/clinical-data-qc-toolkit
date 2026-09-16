@@ -22,6 +22,16 @@ conventions, formats, and data quality standards. This toolkit automates:
 
 ---
 
+## 🧪 Synthetic Data
+
+All records used in this project are synthetic and generated locally by
+`src/data_simulator.py`.
+
+They are designed for demonstration purposes only and do not represent real
+patients, clinical-trial participants, or proprietary clinical datasets.
+
+---
+
 ## 🏗️ Pipeline Architecture
 
 ```
