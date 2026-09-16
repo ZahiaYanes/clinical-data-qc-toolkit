@@ -4,7 +4,8 @@
 [![Tests](https://img.shields.io/badge/Tests-19%20passed-brightgreen.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> Python toolkit for **automated quality control and harmonization** of multi-center clinical datasets, typical of real-world oncology trials.
+> Python toolkit for **automated quality control and harmonization** of multi-center clinical datasets, designed to reproduce common data-quality
+issues encountered in real-world oncology studies and clinical trials.
 
 **Author**: [Zahia Yanes](https://www.linkedin.com/in/zahia-yanes) — Health Data & AI Engineer
 
